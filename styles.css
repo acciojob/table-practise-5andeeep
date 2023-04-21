@@ -1,6 +1,12 @@
 table{
     /* margin: 0px; */
+	border: 1px solid black;
     background-color: yellow;
 }
-
+table th{
+	border: 1px solid black;
+}
+table td{
+	border: 1px solid black;
+}
 
